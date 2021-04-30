@@ -372,6 +372,7 @@ ul {
 
 .footer p {
   text-align: center;
+  font-size: 0;
   font-size: 0.875rem;
   font-weight: 300;
   margin: 2.5rem 0;
