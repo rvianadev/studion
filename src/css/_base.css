@@ -12,7 +12,7 @@ body {
   margin: 0;
 }
 
-header,
+/* header, */
 main,
 footer {
   overflow-x: hidden;
